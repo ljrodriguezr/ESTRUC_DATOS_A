@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ESTRUC_DATOS_A\\Semana_14\\Semana_14.csproj": {}
+    "c:\\ESTRUC_DATOS_A\\Semana_14\\Semana_14.csproj": {}
   },
   "projects": {
-    "C:\\ESTRUC_DATOS_A\\Semana_14\\Semana_14.csproj": {
+    "c:\\ESTRUC_DATOS_A\\Semana_14\\Semana_14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ESTRUC_DATOS_A\\Semana_14\\Semana_14.csproj",
+        "projectUniqueName": "c:\\ESTRUC_DATOS_A\\Semana_14\\Semana_14.csproj",
         "projectName": "Semana_14",
-        "projectPath": "C:\\ESTRUC_DATOS_A\\Semana_14\\Semana_14.csproj",
+        "projectPath": "c:\\ESTRUC_DATOS_A\\Semana_14\\Semana_14.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\ESTRUC_DATOS_A\\Semana_14\\obj\\",
+        "outputPath": "c:\\ESTRUC_DATOS_A\\Semana_14\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
